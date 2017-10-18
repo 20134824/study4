@@ -6,7 +6,7 @@ public class Helloworld {
 		System.out.println("Hello world");
 		System.out.println("Hello Hotfix");\
 			
-		System.out.println("Hello PUSHPrint");
+		System.out.println("Hello remote");
 
 	}
 
